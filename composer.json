@@ -1,0 +1,15 @@
+{
+    "name": "antigravity/it-asset-tracker",
+    "description": "Simple IT Asset Tracker",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "6.9",
+        "tecnickcom/tcpdf": "6.6"
+    },
+    "authors": [
+        {
+            "name": "Antigravity",
+            "email": "antigravity@example.com"
+        }
+    ]
+}
